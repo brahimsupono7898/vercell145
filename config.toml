@@ -1,0 +1,4 @@
+baseURL = "https://freepoemshuuk50.vercel.app"
+languageCode = "en-us"
+title = "Free Poems Download"
+theme = "tale-hugo-master"
